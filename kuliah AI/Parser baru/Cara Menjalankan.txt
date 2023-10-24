@@ -1,0 +1,1 @@
+cara menjalankan : java Parser p1.pl

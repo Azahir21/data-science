@@ -1,0 +1,12 @@
+S : NP VP PPs
+NP : DET ADJ-NOUN
+ADJ-NOUN : ADJ ADJ-NOUN
+ADJ-NOUN : NOUN
+VP : VERB NP
+PPs : PP P
+PP : PREP NP
+DET : the, a
+ADJ : smart, black, round
+NOUN : robot, box, table
+PREP : on
+VERB : moves
